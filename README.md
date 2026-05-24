@@ -2,9 +2,13 @@
 
 ## 📊 Most Used Languages
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyybookssa-star&layout=compact&theme=dark&langs_count=6&card_width=450" alt="Most Used Languages" />
-</p>
+| Language | Usage Percentage | Visual Progress Bar |
+| :--- | :--- | :--- |
+| 🔹 **ASP.NET / C#** | 50.80% | `████████████████████░░░░░░░░░░░░░░░░░░░░` |
+| 🔸 **Java** | 15.07% | `██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| 🔹 **Python** | 6.18% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| 🔸 **EJS / HTML** | 5.99% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| 🔹 **JavaScript** | 3.88% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 
 ---
 
