@@ -1,5 +1,13 @@
 # Hi there, I'm iyybookssa-star! 👋
 
+## 📊 Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyybookssa-star&layout=compact&theme=dark&langs_count=6&card_width=450" alt="Most Used Languages" />
+</p>
+
+---
+
 ## 🛠️ Languages and Frameworks
 
 ### Core Stack
@@ -40,9 +48,8 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🌍 Connect With Me
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iyybookssa-star&show_icons=true&theme=dark" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyybookssa-star&layout=compact&theme=dark" alt="Top Languages" height="180" />
-</p>
+* 🚀 **Username:** @iyybookssa-star
+* 📍 **Location:** Saudi Arabia
+* ⚡ **Fun Fact:** Passionate about bridging the gap between intelligent backend systems and intuitive UI/UX design.
