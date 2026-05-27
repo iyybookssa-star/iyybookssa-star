@@ -1,6 +1,5 @@
 ## 📊 Most Used Languages
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iyybookssa-star&layout=compact&theme=dark&hide_border=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
 ---
 
 ## 🛠 Languages and Frameworks
