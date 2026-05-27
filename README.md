@@ -37,5 +37,5 @@
 
 ## 📖 Currently Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=cs" />
 </p>
