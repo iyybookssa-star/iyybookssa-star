@@ -11,8 +11,8 @@
 ## 🛠️ Skills & Technologies
 
 ### 💻 Software Development & Databases
-- **Languages:** PHP, JavaScript, SQL, HTML5, CSS,java,C++ ,Python ,Dart 
-- **Frameworks & Tools:** Node.js, EJS Templating, Docker ,git 
+- **Languages:** PHP, JavaScript, SQL, HTML5, CSS,java,C++ ,Python ,Dart ,Typescript 
+- **Frameworks & Tools:** Node.js, EJS Templating, Docker ,git ,React , Flutter , Exprees , 
 - **Databases:** MySQL, Firebase ,Supabase,Postgresql,Mongo
 
 ### 🛡️ Cybersecurity & Network Defense
