@@ -11,14 +11,14 @@
 ---
 
 ## 👤 My Skills
-- **Engineering:** FrontEnd Design, Mobile Dev (Flutter/React Native), Game Dev (Unity 2D)
+- **Engineering:** FrontEnd Design, Mobile Dev (Flutter/React Native), Web page programing, Full Stack development
 - **Analysis & Quality:** Data/Code Analysis, QA & Software Testing
 
 ---
 
 ## 💻 Currently Working On
-- **Footballer+** (React Native Mobile App)
-- **Unnamed** (Unity 2D video game)
+- **A E-commerce website
+- **A personal CV website
 
 ---
 
